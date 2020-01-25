@@ -16,7 +16,7 @@ voices = engine.getProperty('voices')
 # changing index, changes voices.
 # this for Windows use 1 for female, on man use 2.
 # this for Linux use 2.
-engine.setProperty('voice', voices[1].id)
+engine.setProperty('voice', voices[2].id)
 
 start_program = True
 while start_program:
