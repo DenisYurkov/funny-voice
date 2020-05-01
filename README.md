@@ -16,6 +16,7 @@ Linux and Windows
 
 On lunix: o run on lunix go to the **dict** and write in the terminal **./funny_voice_linux**. <br>
 On windows: We go into the **dict** folder and run the **funny_voice_windows.exe** program.
-P.S. Please write english word.
+
+**P.S. Please write english word.**
 
 Creator: **Denis Yurkov**
